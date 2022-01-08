@@ -2,10 +2,7 @@
 import Card from "./Components/Card";
 function App() {
   return <div>
-    <Card />
-    <Card />
-    <Card />
-    <Card />
+    <Card  name="hello" address="Dhaka"/>
     </div>
 }
 
